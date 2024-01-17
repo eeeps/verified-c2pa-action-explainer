@@ -2,7 +2,7 @@
 Explainer for a proposed c2pa.verified action
 
 ## Problem
-People and organizations that want to adopt C2PA, but publish:
+People and organizations want to adopt C2PA, but publish:
 
 1. existing libraries of media, which do not have C2PA provenance
 2. new media coming from cameras and editing flows which have not yet adopted C2PA, which also lack C2PA provenance.
