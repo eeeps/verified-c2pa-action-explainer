@@ -24,17 +24,17 @@ The following assertions would – as long as consumers trusted the signer – b
     "data": {
       "actions": [
         {
-          "action": "c2pa.verified"
-          "when": "2024-01-15T12:00:00-08"
+          "action": "c2pa.verified",
+          "when": "2024-01-15T12:00:00-08",
           "actors": [
             {
               "name": "Trustworthy News Organization, Inc.",
-              "identifier":"did:adobe:ff76b2edfcdb600facacd7a165172c2aecc07718233798ed61bd3a9f4eba0969e",
+              "identifier":"did:adobe:1234",
               "credential": [
                 {
                   "alg": "sha256",
                   "hash": "IcZeS318070nuvDYmPqfQdZmOI7jGumMjHTxNshA2ao=",
-                  "url": "self#jumbf=/c2pa/adobe:urn:uuid:4fd5a284-6fe9-479c-a8af-9bcbbf851d92/c2pa.credentials/did:adobe:ff76b2edfcdb600facacd7a165172c2aecc07718233798ed61bd3a9f4eba0969e"
+                  "url": "self#jumbf=/c2pa/adobe:urn:uuid:12345678-9012-3456-7890-123456789012/c2pa.credentials/did:adobe:1234"
                 }
               ]
             }
