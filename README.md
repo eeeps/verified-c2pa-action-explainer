@@ -48,7 +48,7 @@ The following assertions would – as long as consumers trusted the signer – b
     "data": {
       "@context" : {
 	"Iptc4xmpCore": "http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/",
-	"Iptc4xmpExt": "http://iptc.org/std/Iptc4xmpExt/2008-02-29/",
+	"Iptc4xmpExt": "http://iptc.org/std/Iptc4xmpExt/2008-02-29/"
       },
       "Iptc4xmpExt:DigitalSourceType": "https://cv.iptc.org/newscodes/digitalsourcetype/digitalCapture",
       "Iptc4xmpCore:DateCreated": "2020-01-01",
