@@ -54,7 +54,7 @@ The following assertions would – as long as consumers trusted the signer – b
       "Iptc4xmpCore:DateCreated": "2020-01-01",
       "Iptc4xmpExt:LocationCreated": { 
         "Iptc4xmpExt:City": "San Francisco"
-      },
+      }
     }
   }
 ]
